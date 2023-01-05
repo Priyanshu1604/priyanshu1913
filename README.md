@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @priyanshu1913
-- 👀 I’m interested in ... coding and singing
-- 🌱 I’m currently learning ... python and sql connectivity
-- 💞️ I’m looking to collaborate on ... python codes
-- 📫 How to reach me ... through my email priyanshumudgal1669@gmail.com
+- 👋 Hi, I’m priyanshu mudgal
+- 👀 I’m interested in ... coding, web dev, cyber security.
+- 🌱 I have learnt python and currently learning c language.
+- 📫 How to reach me ... through my email mudgalpriyanshu6@gmail.com
 
 <!---
 priyanshu1913/priyanshu1913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
